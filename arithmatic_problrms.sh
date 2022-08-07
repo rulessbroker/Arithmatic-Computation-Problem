@@ -7,6 +7,7 @@ echo Result = $((a + b + c))
 
 echo Result1 = $((a + b * c))
 
+echo Result2 = $((a * b + c))
 
 
 
