@@ -1,8 +1,12 @@
 #three inputs
-num1=20
-num2=10
-num3=50
+a=20
+b=10
+c=50
 
-echo Result = $((num1 + num2 + num3))
+echo Result = $((a + b + c))
+
+echo Result1 = $((a + b * c))
+
+
 
 
