@@ -9,6 +9,7 @@ echo Result1 = $((a + b * c))
 
 echo Result2 = $((a * b + c))
 
-echo Result1 = $((a + b / c))
+echo Result3 = $((a + b / c))
 
+echo Result4 = $((a % b + c))
 
